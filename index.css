@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+body{margin: 0px;}
+.mainScreen{
+position: relative;
+width: 240px;
+height: 320px;
+
+background: #448FFF;
+}
+
+.centerDot{
+position: absolute;
+width: 10px;
+height: 10px;
+left: 113px;
+top: 268px;
+
+background: #FFFFFF;
+}
+
+.krug{
+position: absolute;
+width: 132px;
+height: 24px;
+left: 54px;
+top: 261px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.podhod{position: absolute;
+width: 132px;
+height: 24px;
+left: 54px;
+top: 261px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 23px;
+/* identical to box height */
+
+text-align: right;
+
+color: #FFFFFF;}
+
+.time{
+position: absolute;
+left: 5px;
+right: 0px;
+top: 103px;
+bottom: 103px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 80px;
+line-height: 109px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.softLeft{position: absolute;
+width: 72px;
+height: 14px;
+left: 5px;
+bottom: 13px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 23px;
+
+color: #000000;}
+
+.keyEnter{position: absolute;
+height: 14px;
+left: 82px;
+right: 82px;
+bottom: 13px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 17px;
+line-height: 23px;
+text-align: center;
+
+color: #000000;}
+
+.softRight{position: absolute;
+width: 72px;
+height: 14px;
+right: 5px;
+bottom: 13px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 23px;
+text-align: right;
+
+color: #000000;}
+
+.bottomLine{
+position: absolute;
+height: 30px;
+left: 0px;
+right: 0px;
+bottom: 0px;
+
+background: #C4C4C4;
+}

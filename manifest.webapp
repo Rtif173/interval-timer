@@ -1,7 +1,7 @@
 {
   "name": "Interval timer",
   "description": "Interval, Tabata timer",
-  "launch_path": "/index.html?4&1",
+  "launch_path": "/index.html?4&1&50",
   "fullscreen": "true",
   "icons": {
     "16": "/icons/icon16x16.png",
